@@ -20,7 +20,7 @@ export default function Home() {
               based on your skills, strength, and schedule to help you become a
               better player.
             </p>
-            <button className="btn btn-primary text-lg">Get Started -&gt;</button>
+            <a className="btn btn-primary text-lg" href="/generator">Get Started -&gt;</a>
           </div>
         </div>
       </div>
